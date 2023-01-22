@@ -1,6 +1,5 @@
 package com.java.orchestration.models;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.*;
 
 import java.sql.Date;
